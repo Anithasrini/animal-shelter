@@ -20,6 +20,10 @@ body{
   font-style: italic;
 }
 
-.bugs img {
-  border: 2px green
+h2.lead {
+  font-size: 36px;
+}
+
+.jumbotron {
+  background-image: url("~/img/lion.jpeg");
 }
